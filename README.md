@@ -1,24 +1,36 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=wave&&color=0:1B3C53,25:456882,65:D2C1B6,100:F9F3EF&height=200&text=Change%20The%20World&fontColor=32363D&fontSize=60&desc=Pushing%20boundaries%20with%20data%20and%20insight&descAlign=67&descAlignY=70)
+
 
 ## Hi there 👋
 
 
-## Studying Skills
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/apache%20airflow-%23017CEE.svg?&style=for-the-badge&logo=apache%20airflow&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
-<img src="https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?&style=for-the-badge&logo=apache%20spark&logoColor=white" />
-
-<img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/apachesuperset-%20A6C9.svg?&style=for-the-badge&logo=apachesuperset&logoColor=white" />
-<img src="https://img.shields.io/badge/rstudio-%2375AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=black" />
-<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+### Languages, Tools 📚
+<!-- 언어 & 분석 -->
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/rstudio-%2375AADB.svg?&style=flat-square&logo=rstudio&logoColor=black" />
 
 
-## 프로젝트 일람
+<!-- 데이터 파이프라인 & 처리 -->
+<img src="https://img.shields.io/badge/apache%20airflow-%23017CEE.svg?&style=flat-square&logo=apache%20airflow&logoColor=white" /> <img src="https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?&style=flat-square&logo=apache%20spark&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=flat-square&logo=docker&logoColor=white" />
+
+
+
+<!-- 저장소 & 시각화 & 클라우드 -->
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=flat-square&logo=amazon%20aws&logoColor=white" /> <img src="https://img.shields.io/badge/apachesuperset-%20A6C9.svg?&style=flat-square&logo=apachesuperset&logoColor=white" />
+
+
+
+<!-- 협업 -->
+<img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=flat-square&logo=slack&logoColor=white" />
+
+---
+
+### 프로젝트 일람
+<details>
+<summary></summary>
+<div markdown="1">
+
 
 - Kospi 200 예측 With Pytorch(Drop⛔)
 
@@ -46,25 +58,19 @@
 
 - 2000s 회귀를 위한 환경 데이터 분석(ing🔹)
 
+</div>
+</details>
+
 
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lom-sup&exclude_repo=test_403&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lom-sup&exclude_repo=test_403&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div align=center/>
 
 <!--
-**lom-sup/lom-sup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 hide=jupyter%20notebook
 32363D
 222222
