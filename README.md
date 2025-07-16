@@ -1,11 +1,16 @@
 <!-- 헤더 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&&color=0:1B3C53,25:456882,65:D2C1B6,100:F9F3EF&height=200&text=lom-sup's%20GitHub&fontColor=32363D&fontSize=60&desc=Pushing%20boundaries%20with%20data%20and%20insight&descAlign=75&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&&color=0:1B3C53,25:456882,65:D2C1B6,100:F9F3EF&height=200&text=lom-sup's%20GitHub&fontColor=32363D&fontSize=60&desc=Pushing%20boundaries%20with%20data%20and%20insight&descAlign=74&descAlignY=71" />
 </div>
 
 <!-- 인사 & 소개 -->
 <h2 align="center">👋 Hello, there! 👋</h2>
-<p align="center">Data Analysis/Data Engineering</p>
+<p align="center">
+I'm working/studying in the fields of <strong>data analysis</strong> and <strong>data engineering</strong>.<br/>
+I want to be the kind of person who makes meaningful things possible — through data.<br/>
+Recently, I've been especially interested in <strong>environmental issues</strong>,<br/>
+and I'm currently designing a project that aims to contribute to tackling the climate crisis.
+</p>
 
 </br>
 </hr>
@@ -50,21 +55,21 @@
 </hr>
 
 <!-- 프로젝트 일람 -->
-<h2 align="center">📂 프로젝트 일람</h2>
+<h2 align="center">📂 Project</h2>
 
 <details>
-  <summary align="center"><strong>목록 보기</strong></summary>
+  <summary align="center"><strong>Open project list</strong></summary>
   <br/>
 
   <ul>
     <li>
       <a href="https://github.com/lom-sup/kospi200_forecasting_lstm_fail"><strong>Kospi 200 예측 with Tensorflow (Drop⛔)</strong></a><br/>
-      LSTM 기반 시계열 모델을 활용한 Kospi 200 예측 시도. Dimension 오류로 중단 후 학습 회고 진행.
+      LSTM 기반 시계열 모델을 활용한 Kospi 200 예측 모델 구축. Dimension 오류와 시간 부족으로 중단 후 학습 회고 진행.
     </li>
     <br/>
     <li>
       <a href="https://github.com/lom-sup/samsung-stock-forcasting"><strong>삼성 주가 예측 with PyTorch (Done✨)</strong></a><br/>
-      S&P500, 환율 등 경제 지표와 Pytorch를 활용한 삼성전자 주가 예측 회귀 모델 구축.
+      S&P500, 환율 등 경제 지표를 활용한 삼성전자 주가 예측 회귀 모델 구축(With Pytorch).
     </li>
     <br/>
     <li>
@@ -84,7 +89,7 @@
     <br/>
     <li>
       <strong>뉴스/FOMC 감성 분석 기반 M7 주가 예측 (Done✨)</strong><br/>
-      경제 뉴스 및 FOMC 발언 감성 분석을 통해 M7 주가 예측모델 비교-개발 및 시각화.
+      경제 뉴스 및 FOMC 발언 감성 분석을 통한 M7 주가 예측모델 비교-개발 및 시각화.
     </li>
     <br/>
     <li>
