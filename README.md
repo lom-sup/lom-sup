@@ -6,14 +6,14 @@
 <!-- 인사 & 소개 -->
 <h2 align="center">👋 Hello, there! 👋</h2>
 <p align="center">
-I'm working/studying in the fields of <strong>data analysis</strong> and <strong>data engineering</strong>.<br/>
+I'm currently working and studying in the fields of <strong>data analysis</strong> and <strong>data engineering</strong>.<br><br/>
 I want to be the kind of person who makes meaningful things possible — through data.<br/>
 Recently, I've been especially interested in <strong>environmental issues</strong>,<br/>
 and I'm currently designing a project that aims to contribute to tackling the climate crisis.
 </p>
 
-</br>
-</hr>
+<br/>
+<hr/>
 
 
 <!-- 언어 및 도구 섹션 -->
@@ -55,7 +55,7 @@ and I'm currently designing a project that aims to contribute to tackling the cl
 </hr>
 
 <!-- 프로젝트 일람 -->
-<h2 align="center">📂 Project</h2>
+<h2 align="center">📂 Projects</h2>
 
 <details>
   <summary align="center"><strong>Open project list</strong></summary>
