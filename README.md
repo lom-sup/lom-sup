@@ -4,8 +4,11 @@
 </div>
 
 <!-- 인사 & 소개 -->
-<h2 align="center">Hello, there! 👋</h2>
+<h2 align="center">👋 Hello, there! 👋</h2>
 <p align="center">Data Analysis/Data Engineering</p>
+
+</br>
+</hr>
 
 
 <!-- 언어 및 도구 섹션 -->
@@ -43,7 +46,8 @@
   <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=flat-square&logo=slack&logoColor=white" />
 </p>
 
-<hr/>
+</br>
+</hr>
 
 <!-- 프로젝트 일람 -->
 <h2 align="center">📂 프로젝트 일람</h2>
