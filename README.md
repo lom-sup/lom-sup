@@ -88,7 +88,7 @@ and I'm currently designing a project that aims to contribute to tackling the cl
     </li>
     <br/>
     <li>
-      <strong>뉴스/FOMC 감성 분석 기반 M7 주가 예측 (Done✨)</strong><br/>
+      <a href="https://github.com/lom-sup/M7-stock-forecast"><strong>뉴스/FOMC 감성 분석 기반 M7 주가 예측 (Done✨)</strong></a><br/>
       경제 뉴스 및 FOMC 발언 감성 분석을 통한 M7 주가 예측모델 비교-개발 및 시각화.
     </li>
     <br/>
@@ -98,6 +98,7 @@ and I'm currently designing a project that aims to contribute to tackling the cl
     </li>
   </ul>
 </details>
+
 
 
 <!--
