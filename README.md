@@ -1,6 +1,6 @@
 <!-- 헤더 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&&color=0:1B3C53,25:456882,65:D2C1B6,100:F9F3EF&height=200&text=lom-sup's%20GitHub&fontColor=32363D&fontSize=60&desc=Pushing%20boundaries%20with%20data%20and%20insight&descAlign=74&descAlignY=71" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&&color=0:1B3C53,25:456882,55:D2C1B6,100:F9F3EF&height=200&text=lom-sup's%20GitHub&fontColor=32363D&fontSize=60&desc=Pushing%20boundaries%20with%20data%20and%20insight&descAlign=74&descAlignY=71" />
 </div>
 
 <!-- 인사 & 소개 -->
