@@ -99,6 +99,16 @@ and I'm currently designing a project that aims to contribute to tackling the cl
   </ul>
 </details>
 
+<br>
+
+<h2 align = "center">State :small_blue_diamond: </h2>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lom-sup&exclude_repo=test_403&layout=compact" />
+  </a>
+</div>
+  
+
 
 
 <!--
