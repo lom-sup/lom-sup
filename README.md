@@ -3,10 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&&color=0:1B3C53,25:456882,55:D2C1B6,100:F9F3EF&height=200&text=lom-sup's%20GitHub&fontColor=32363D&fontSize=60&desc=Pushing%20boundaries%20with%20data%20and%20insight&descAlign=74&descAlignY=71" />
 </div>
 
+<br/>
+
+
 <!-- 인사 & 소개 -->
 <h2 align="center">👋 Hello, there! 👋</h2>
 <p align="center">
-I'm currently working and studying in the fields of <strong>data analysis</strong> and <strong>data engineering</strong>.<br><br/>
+I'm currently working and studying in the fields of <strong>Data analysis</strong> and <strong>Data engineering</strong>.<br><br/>
 I want to be the kind of person who makes meaningful things possible — through data.<br/>
 Recently, I've been especially interested in <strong>environmental issues</strong>,<br/>
 and I'm currently designing a project that aims to contribute to tackling the climate crisis.
